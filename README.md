@@ -1,6 +1,5 @@
 CodeBase Search Using RAG (Retrieval-Augmented Generation)
 
-Project Overview
 This project is a Codebase Q&A Chatbot built using Retrieval-Augmented Generation (RAG) that enables users to ask questions related to their codebase. It is designed to search through large code repositories, extract relevant code snippets, and generate contextual answers using an advanced language model.
 
 The chatbot combines:
